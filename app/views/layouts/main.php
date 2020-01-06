@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="/public/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="/public/css/main.css">
-    <title>MAIN</title>
+    <title>MAIN | <?=$title?></title>
 </head>
 <body>
 <h1>MAIN</h1>
